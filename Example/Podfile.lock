@@ -1,0 +1,16 @@
+PODS:
+  - SBLoan (0.1.0)
+
+DEPENDENCIES:
+  - SBLoan (from `../`)
+
+EXTERNAL SOURCES:
+  SBLoan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SBLoan: 98bf251b4900d6af826456ec6b7c5749497b9be0
+
+PODFILE CHECKSUM: 2f2630f9bca68f2200a19d5b56f63da20437dd49
+
+COCOAPODS: 1.15.2
